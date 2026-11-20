@@ -1,6 +1,6 @@
-# Exercise Multiomics | Analysis code
+# Title
 
-Analysis and visualization scripts for exercise-training proteomics, metabolomics, molecular networks, and UK Biobank incident disease analyses.
+Aerobic training reshapes molecular response trajectories to acute exercise beyond changes in resting abundance.
 
 ## Contents
 
